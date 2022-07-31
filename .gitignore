@@ -1,0 +1,5 @@
+.firebase
+dist
+node_modules
+old
+.DS_Store
