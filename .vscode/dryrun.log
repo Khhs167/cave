@@ -1,0 +1,5 @@
+make -f /home/khhs/Documents/cave/Makefile --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/khhs/Documents/cave'
+npm run dev
+make: Leaving directory '/home/khhs/Documents/cave'
+ 
